@@ -10,7 +10,4 @@ Jeune développeur qui est tombé éperdument amoureux de la programmation dès 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khantonai&theme=onedark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
